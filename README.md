@@ -13,3 +13,5 @@ This was too difficult to comfortably play with on paper, so I made this.
 Note: **This requires Pygame**
 
 To change the dimensions of the box change the table_size variable.
+
+!(https://raw.githubusercontent.com/emnom/Switches-Playground/master/Capture.png)
