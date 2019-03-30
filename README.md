@@ -14,4 +14,4 @@ Note: **This requires Pygame**
 
 To change the dimensions of the box change the table_size variable.
 
-!(https://raw.githubusercontent.com/emnom/Switches-Playground/master/Capture.png)
+![](https://raw.githubusercontent.com/emnom/Switches-Playground/master/Capture.PNG)
